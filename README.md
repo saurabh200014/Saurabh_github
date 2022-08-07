@@ -1,4 +1,4 @@
-# Hi there, I'm Saurabh Borawake - aka [linkedIn][linkedin] 👋 
+# Hi there, I'm Saurabh Borawake - aka [linkedIn](https://www.linkedin.com/in/saurabh-borawake-75441a192/)👋 
 
 ## I'm a Student, Competitive Programmer, Developer!!
 
